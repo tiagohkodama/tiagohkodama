@@ -1,33 +1,57 @@
-# Hi there 👋
+# 👋 Hi, I'm Tiago Kodama
 
-I'm **Tiago Harumitsu Kodama**, a passionate Software Developer who loves turning complex problems into elegant, scalable solutions. I believe in writing clean, maintainable code and staying curious.
+**Backend & Data Engineer | AWS Cloud | Serverless Architect**
 
----
-
-## 🌱 About Me
-
-- 🎓 Background in Physics and a strong analytical mindset
-- 🚀 Experienced with **NestJS**, **GraphQL**, **MongoDB**, and **AWS** services (Lambda, DynamoDB, SQS, SNS)
-- 🧪 Testing enthusiast: Jest & Mocha
-- 📊 Data-driven mindset: dashboards, data lakes & fabric
-- 💡 Lifelong learner: always exploring new frameworks, patterns, and best practices
+I'm a backend and data engineer passionate about building **scalable, secure, and high-performance systems** in the cloud.  
+My focus is on designing **AWS-native, event-driven, and serverless architectures** using **Node.js**, **Python**, and **TypeScript** — always guided by **Clean Architecture** and **SOLID principles**.
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🚀 About Me
 
-| Backend                  | Frontend             | DevOps & Cloud      | Databases      | Testing        |
-| ------------------------ | -------------------- | ------------------- | -------------- | -------------- |
-| Node.js, NestJS, Express | Angular, TypeScript  | AWS Lambda, SQS, SNS | MongoDB, DynamoDB | Jest, Mocha   |
-| GraphQL, Apollo          | React (occasional)   | AWS Step Functions  | PostgreSQL     | Supertest      |
+- 💼 Currently working at **CI&T** as a **Senior Software Engineer**, delivering cloud solutions at enterprise scale.  
+- ☁️ Experienced in **AWS Lambda**, **Step Functions**, **DynamoDB**, and **Infrastructure as Code** using **AWS CDK** and the **Serverless Framework**.  
+- 🤖 Building **AI-powered agents and automation pipelines** with **LangChain** and **LiteLLM**.  
+- 🔍 Focused on **observability and reliability**, integrating **Splunk**, **OpenSearch**, and **CloudWatch** into monitoring systems.  
+- 🌎 Working remotely with **international, cross-functional teams**.  
+- 💬 Languages: Portuguese (native), English (B2).  
 
 ---
 
-## 📫 Get in Touch
+### 🧠 Tech Stack
 
-Let's connect and build something cool together!
+| Area | Technologies |
+|------|---------------|
+| **Languages** | Node.js, TypeScript, Python, JavaScript |
+| **Frameworks** | Serverless Framework, AWS CDK, React, Next.js |
+| **Cloud & Infra** | AWS Lambda, Step Functions, DynamoDB, SQS, SNS, API Gateway, ECR |
+| **Data & Automation** | AWS Glue, Batch, Data Lakes, CI/CD Pipelines |
+| **DevOps & CI/CD** | GitHub Actions, Bitbucket Pipelines, Jenkins, Docker |
+| **Testing** | Jest, Playwright, Puppeteer |
+| **Monitoring** | Splunk, OpenSearch, CloudWatch |
+| **Databases** | PostgreSQL, MongoDB, Redis, DynamoDB |
 
-<!--
-**tiagoharumitsu/tiagoharumitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
 
+### 🧩 What I Enjoy Building
+
+- 🏗️ **Serverless microservices** that scale effortlessly  
+- 🔄 **Automation pipelines** that save engineering hours  
+- 🤖 **LLM-based agents** that integrate intelligence into backend systems  
+- 📊 **Data platforms** (data lakes, data fabric) for analytics and AI  
+
+---
+
+### 🎓 Education & Certifications
+
+- 🎓 **B.Sc. in Physics** — University of São Paulo (USP)  
+- 💻 **Full Stack Development Bootcamp** — Labenu  
+- 🧾 Certifications:  
+  - Serverless Framework Bootcamp (Node.js, AWS & Microservices)  
+  - Mastering Bitbucket Pipelines for CI/CD  
+  - Complete Introduction to AWS Quicksight  
+  - Statistics & Data Analytics for Data Science and Business  
+
+---
+
+> _“Code that scales, data that matters, and automation that empowers teams.”_

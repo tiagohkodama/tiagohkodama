@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tiago Kodama
+# 👋 Hi, I'm Tiago
 
 **Backend & Data Engineer | AWS Cloud | Serverless Architect**
 
@@ -9,11 +9,11 @@ My focus is on designing **AWS-native, event-driven, and serverless architecture
 
 ### 🚀 About Me
 
-- 💼 Currently working at **CI&T** as a **Senior Software Engineer**, delivering cloud solutions at enterprise scale.  
-- ☁️ Experienced in **AWS Lambda**, **Step Functions**, **DynamoDB**, and **Infrastructure as Code** using **AWS CDK** and the **Serverless Framework**.  
-- 🤖 Building **AI-powered agents and automation pipelines** with **LangChain** and **LiteLLM**.  
-- 🔍 Focused on **observability and reliability**, integrating **Splunk**, **OpenSearch**, and **CloudWatch** into monitoring systems.  
-- 🌎 Working remotely with **international, cross-functional teams**.  
+- 💼 Senior Software Engineer with hands-on experience in cloud-native solutions and large-scale distributed systems.  
+- ☁️ Specialized in **AWS Lambda**, **Step Functions**, **DynamoDB**, and **Infrastructure as Code** using **AWS CDK** and the **Serverless Framework**.  
+- 🤖 Builder of **AI-powered automation agents** and **data pipelines** using **LangChain**, **LiteLLM**, and **Python**.  
+- 🔍 Strong focus on **observability, automation, and reliability** with **Splunk**, **OpenSearch**, and **CloudWatch**.  
+- 🌎 Experienced in remote collaboration with **international, cross-functional teams**.  
 - 💬 Languages: Portuguese (native), English (B2).  
 
 ---
@@ -25,9 +25,9 @@ My focus is on designing **AWS-native, event-driven, and serverless architecture
 | **Languages** | Node.js, TypeScript, Python, JavaScript |
 | **Frameworks** | Serverless Framework, AWS CDK, React, Next.js |
 | **Cloud & Infra** | AWS Lambda, Step Functions, DynamoDB, SQS, SNS, API Gateway, ECR |
-| **Data & Automation** | AWS Glue, Batch, Data Lakes, CI/CD Pipelines |
+| **Data & Automation** | AWS Glue, AWS Batch, Data Lakes, CI/CD Pipelines |
 | **DevOps & CI/CD** | GitHub Actions, Bitbucket Pipelines, Jenkins, Docker |
-| **Testing** | Jest, Playwright, Puppeteer |
+| **Testing** | Jest, Playwright, Puppeteer, **Mocha**, **Pytest** |
 | **Monitoring** | Splunk, OpenSearch, CloudWatch |
 | **Databases** | PostgreSQL, MongoDB, Redis, DynamoDB |
 
@@ -37,7 +37,7 @@ My focus is on designing **AWS-native, event-driven, and serverless architecture
 
 - 🏗️ **Serverless microservices** that scale effortlessly  
 - 🔄 **Automation pipelines** that save engineering hours  
-- 🤖 **LLM-based agents** that integrate intelligence into backend systems  
+- 🤖 **LLM-based agents** that bring intelligence to backend systems  
 - 📊 **Data platforms** (data lakes, data fabric) for analytics and AI  
 
 ---

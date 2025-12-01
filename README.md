@@ -9,7 +9,7 @@ My focus is on designing **AWS-native, event-driven, and serverless architecture
 
 ### 🚀 About Me
 
-- 💼 Senior Software Engineer with hands-on experience in cloud-native solutions and large-scale distributed systems.  
+- 💼 Software Engineer with hands-on experience in cloud-native solutions and large-scale distributed systems.  
 - ☁️ Specialized in **AWS Lambda**, **Step Functions**, **DynamoDB**, and **Infrastructure as Code** using **AWS CDK** and the **Serverless Framework**.  
 - 🤖 Builder of **AI-powered automation agents** and **data pipelines** using **LangChain**, **LiteLLM**, and **Python**.  
 - 🔍 Strong focus on **observability, automation, and reliability** with **Splunk**, **OpenSearch**, and **CloudWatch**.  

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tiago
 
-**Backend & Data Engineer | AWS Cloud | Serverless Architect**
+**Backend | AWS Cloud | Node.js | Python**
 
 I'm a backend and data engineer passionate about building **scalable, secure, and high-performance systems** in the cloud.  
 My focus is on designing **AWS-native, event-driven, and serverless architectures** using **Node.js**, **Python**, and **TypeScript** — always guided by **Clean Architecture** and **SOLID principles**.
